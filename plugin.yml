@@ -1,0 +1,12 @@
+name: iPaintball
+author: iNo_
+version: 0.2
+main: me.ino.tanarias.paintball.Main
+description: Mini-jeu de paintball par iNo_
+commands:
+  start:
+    description: Force le lancement de la partie
+    usage: /<command>
+  test:
+    description: Commande de test
+    usage: /<command>
